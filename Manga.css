@@ -9,6 +9,12 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+body {
+
+        background-color: #373737;
+        position: relative;
+
+    }
 header {
 
     background-color: #232323;
