@@ -13,9 +13,9 @@
 <body>
 
 
-<div>
+
 [اضغط هنا لدخول الموقع](lahgamanga.html)
-</div>
+
 
 
 </body>
