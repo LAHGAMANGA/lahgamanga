@@ -1,3 +1,0 @@
-# lahgamanga
-# lahgamanga
-# lahgamanga
